@@ -1,0 +1,28 @@
+@startmindmap
+*[#000000] <color:#FFFFFF><&infinity> Argument Map
+**[#2196F3] <color:#BBDEFB><&comment-square> Main Claim: My project idea would require me to rely on evidence.
+
+***[#4CAF50] <color:#C8E6C9><&check> Effective Pedagogical Approach Identification
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Evidence is essential to determine the most effective way to integrate ethics and EBP in healthcare education.
+****[#8BC34A] <color:#DCEDC8><&zoom-in> The decision-making process must be informed by outcomes and effectiveness of different educational strategies, like MHEC meetings.
+
+***[#4CAF50] <color:#C8E6C9><&check> Validation of MHEC Meetings' Effectiveness
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Evidence validates the impact of MHEC meetings on learning and application of ethical and EBP principles.
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Lack of evidence could lead to educational practices that do not adequately prepare students.
+
+***[#4CAF50] <color:#C8E6C9><&check> Addressing Cognitive Factors
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Understanding and addressing heuristics, biases, and emotions are crucial.
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Evidence on cognitive factors can inform strategies that foster critical thinking and decision-making.
+
+***[#F44336] <color:#FFCDD2><&x> Potential Overreliance on Quantitative Evidence
+****[#FF9800] <color:#FFE0B2><&zoom-out> Quantitative evidence may not fully capture the complexities of ethical decision-making.
+****[#FFC107] <color:#FFECB3><&media-pause> Qualitative evidence and case studies provide nuanced insights.
+
+***[#F44336] <color:#FFCDD2><&x> Risk of Bias in Evidence Selection
+****[#FF9800] <color:#FFE0B2><&zoom-out> Risk that selected evidence might be biased.
+****[#FFC107] <color:#FFECB3><&media-pause> Systematic reviews and meta-analyses can mitigate bias.
+
+***[#F44336] <color:#FFCDD2><&x> Emotional and Cultural Factors Might Be Underrepresented
+****[#FF9800] <color:#FFE0B2><&zoom-out> Evidence-based approaches could underplay emotions and cultural differences.
+****[#FFC107] <color:#FFECB3><&media-pause> Diverse case studies and ethical scenarios ensure emotional and cultural dimensions are represented.
+@endmindmap
